@@ -3,3 +3,5 @@
 source .venv/bin/activate
 
 
+# Invoke Django test runner using: 
+python manage.py test
